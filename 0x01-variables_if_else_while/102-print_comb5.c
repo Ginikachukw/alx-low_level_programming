@@ -21,7 +21,7 @@ int main(void)
 		if (first_nums == 98 && second_nums == 99)
 		{
 		break;											}
-		Putchar(',');
+		putchar(',');
 		putchar (' ');
 			}
 		}
